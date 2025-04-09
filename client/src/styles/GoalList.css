@@ -1,0 +1,36 @@
+/* Goal List Styles */
+.goal-list-container {
+  @apply w-full max-w-[1200px] mx-auto p-5;
+}
+
+.goal-list-header {
+  @apply flex justify-between items-center mb-5;
+}
+
+.goal-list-header h1 {
+  @apply text-24 font-semibold;
+}
+
+.add-goal-btn {
+  @apply ml-2;
+}
+
+.goals-container {
+  @apply flex flex-col gap-4;
+}
+
+.goal-item {
+  @apply border border-gray-300 p-4 rounded-lg bg-gray-50 shadow-md;
+}
+
+.goal-item div {
+  @apply mb-3 text-16;
+}
+
+.goal-item:last-child {
+  @apply mb-0;
+}
+
+.progress-bar {
+  @apply w-[40%];
+}

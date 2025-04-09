@@ -1,0 +1,229 @@
+// USED FOR REFERENCE SINCE MONGOOSE WAS INTEGRATED
+
+[
+    {
+        "id": "2023/10/28",
+        "title": "Reminder: You have upcoming credit card payments due soon.",
+        "category": "personal",
+        "isRead": false
+    },
+    {
+        "id": "2023/10/15",
+        "title": "Your weekly spending on dining out has exceeded your budget!",
+        "category": "restaurant",
+        "isRead": false
+    },
+    {
+        "id": "2023/10/03",
+        "title": "New deposit made to your savings account.",
+        "category": "salary",
+        "isRead": false
+    },
+    {
+        "id": "2023/09/20",
+        "title": "Alert: High expenditure on entertainment this month.",
+        "category": "personal",
+        "isRead": false
+    },
+    {
+        "id": "2023/09/10",
+        "title": "Savings goal achieved! Consider setting a new goal.",
+        "category": "salary",
+        "isRead": false
+    },
+    {
+        "id": "2023/08/28",
+        "title": "Automatic transfer to your emergency fund was successful.",
+        "category": "salary",
+        "isRead": false
+    },
+    {
+        "id": "2023/08/15",
+        "title": "Notice: Recurring subscription payment processed.",
+        "category": "personal",
+        "isRead": false
+    },
+    {
+        "id": "2023/08/01",
+        "title": "Reminder: Budget for utilities is close to being exhausted.",
+        "category": "personal",
+        "isRead": false
+    },
+    {
+        "id": "2023/07/18",
+        "title": "Consider reviewing your grocery spending this month.",
+        "category": "retail",
+        "isRead": false
+    },
+    {
+        "id": "2023/07/05",
+        "title": "You have unused funds in your travel budget. Consider reallocating.",
+        "category": "personal",
+        "isRead": false
+    },
+    {
+        "id": "2023/06/23",
+        "title": "Your monthly investment contribution was successfully completed.",
+        "category": "salary",
+        "isRead": false
+    },
+    {
+        "id": "2023/06/10",
+        "title": "Alert: You’ve spent more on shopping than last month.",
+        "category": "retail",
+        "isRead": false
+    },
+    {
+        "id": "2023/05/27",
+        "title": "New cashback reward available for review.",
+        "category": "retail",
+        "isRead": false
+    },
+    {
+        "id": "2023/05/15",
+        "title": "Income tax payment deadline approaching. Review your finances.",
+        "category": "personal",
+        "isRead": false
+    },
+    {
+        "id": "2023/04/30",
+        "title": "Your emergency fund has reached 80% of the target goal.",
+        "category": "salary",
+        "isRead": false
+    },
+    {
+        "id": "2023/04/15",
+        "title": "Reminder: Review monthly expenses for potential savings.",
+        "category": "personal",
+        "isRead": false
+    },
+    {
+        "id": "2023/04/01",
+        "title": "Transaction alert: Large purchase detected on your debit card.",
+        "category": "retail",
+        "isRead": false
+    },
+    {
+        "id": "2023/03/18",
+        "title": "Your budgeted funds for groceries are nearly exhausted.",
+        "category": "retail",
+        "isRead": false
+    },
+    {
+        "id": "2023/03/01",
+        "title": "Automatic savings transfer completed.",
+        "category": "salary",
+        "isRead": false
+    },
+    {
+        "id": "2023/02/10",
+        "title": "Consider consolidating expenses to avoid overdraft fees.",
+        "category": "transportation",
+        "isRead": false
+    }
+]
+
+
+// DATE FIELD
+[
+    {
+        "date": "2023/10/28",
+        "title": "Reminder: You have upcoming credit card payments due soon.",
+        "category": "personal"
+    },
+    {
+        "date": "2023/10/15",
+        "title": "Your weekly spending on dining out has exceeded your budget!",
+        "category": "restaurant"
+    },
+    {
+        "date": "2023/10/03",
+        "title": "New deposit made to your savings account.",
+        "category": "salary"
+    },
+    {
+        "date": "2023/09/20",
+        "title": "Alert: High expenditure on entertainment this month.",
+        "category": "personal"
+    },
+    {
+        "date": "2023/09/10",
+        "title": "Savings goal achieved! Consider setting a new goal.",
+        "category": "salary"
+    },
+    {
+        "date": "2023/08/28",
+        "title": "Automatic transfer to your emergency fund was successful.",
+        "category": "salary"
+    },
+    {
+        "date": "2023/08/15",
+        "title": "Notice: Recurring subscription payment processed.",
+        "category": "personal"
+    },
+    {
+        "date": "2023/08/01",
+        "title": "Reminder: Budget for utilities is close to being exhausted.",
+        "category": "personal"
+    },
+    {
+        "date": "2023/07/18",
+        "title": "Consider reviewing your grocery spending this month.",
+        "category": "retail"
+    },
+    {
+        "date": "2023/07/05",
+        "title": "You have unused funds in your travel budget. Consider reallocating.",
+        "category": "personal"
+    },
+    {
+        "date": "2023/06/23",
+        "title": "Your monthly investment contribution was successfully completed.",
+        "category": "salary"
+    },
+    {
+        "date": "2023/06/10",
+        "title": "Alert: You’ve spent more on shopping than last month.",
+        "category": "retail"
+    },
+    {
+        "date": "2023/05/27",
+        "title": "New cashback reward available for review.",
+        "category": "retail"
+    },
+    {
+        "date": "2023/05/15",
+        "title": "Income tax payment deadline approaching. Review your finances.",
+        "category": "personal"
+    },
+    {
+        "date": "2023/04/30",
+        "title": "Your emergency fund has reached 80% of the target goal.",
+        "category": "salary"
+    },
+    {
+        "date": "2023/04/15",
+        "title": "Reminder: Review monthly expenses for potential savings.",
+        "category": "personal"
+    },
+    {
+        "date": "2023/04/01",
+        "title": "Transaction alert: Large purchase detected on your debit card.",
+        "category": "retail"
+    },
+    {
+        "date": "2023/03/18",
+        "title": "Your budgeted funds for groceries are nearly exhausted.",
+        "category": "retail"
+    },
+    {
+        "date": "2023/03/01",
+        "title": "Automatic savings transfer completed.",
+        "category": "salary"
+    },
+    {
+        "date": "2023/02/10",
+        "title": "Consider consolidating expenses to avoid overdraft fees.",
+        "category": "transportation"
+    }
+]

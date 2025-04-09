@@ -1,0 +1,28 @@
+{
+  "name": "urlshortener",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "date-fns": "^4.1.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.1",
+    "express-openid-connect": "^2.17.1",
+    "mongoose": "^8.8.2",
+    "node-cron": "^3.0.3",
+    "nodemon": "^3.1.7",
+    "query-string": "^9.1.1",
+    "urlshortener": "file:"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.15"
+  }
+}
